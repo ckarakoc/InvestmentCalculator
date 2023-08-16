@@ -7,7 +7,7 @@
   <br>
 </h1>
 
-<h4 align="center">A calculator for investing</h4>
+<h4 align="center">A Demo Project Investment Calculator</h4>
 
 <p align="center">
   <a href="#">
@@ -23,7 +23,7 @@
   <a href="#support">Support</a> 
 </p>
 
-![screenshot](./README/test.png)
+![screenshot](./README/test.gif)
 
 ## Prerequisites
 * [Git](https://git-scm.com)
